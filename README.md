@@ -4,7 +4,7 @@ Sovereign single-file vector editor. The Illustrator wedge of **FallStudio** (ph
 
 One HTML file. No server. No build. No telemetry. Works from `file://`. Your work lives in IndexedDB on your machine.
 
-**Prime: 439 · Seal: MIT · ◊·κ=1**
+**prime: 1429 · Seal: MIT · ◊·κ=1**
 
 ---
 
@@ -45,7 +45,7 @@ Architecture follows the FallStudio shared doctrine:
 - **L5 PERSIST** — IndexedDB primary; SVG/PNG export covers everything
 - **L6 SKIN** — estate dark palette, brass mark, mobile-responsive at <760px
 - **Konomi** sovereign shim baked inert
-- **fallmesh** BroadcastChannel on `fall-signal` channel, prime 439
+- **fallmesh** BroadcastChannel on `fall-signal` channel, prime 1429
 - **postMessage** API: `{target:'fallvector', action:'ping'|'add'|'export'}`
 - **PWA** manifest via data: URL
 
